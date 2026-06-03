@@ -1,0 +1,18 @@
+{
+  "name": "payments-dashboard-refactor",
+  "version": "1.0.0",
+  "description": "Utkrusht Payments Dashboard refactor assessment task",
+  "type": "module",
+  "scripts": {
+    "lint": "echo \"No linter configured for this task.\"",
+    "test": "echo \"No automated tests provided.\""
+  },
+  "keywords": [
+    "javascript",
+    "payments",
+    "dashboard",
+    "assessment"
+  ],
+  "author": "Utkrusht Assessment System",
+  "license": "MIT"
+}
